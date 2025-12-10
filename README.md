@@ -6,7 +6,7 @@
 <h1>Cloud Mail</h1>
 </div>
 <div align="center">
-    <h4>基于 Cloudflare 的响应式邮箱服务，支持邮件发送、附件收发 🎉</h4> 
+    <h4>基于 Cloudflare 的cbz响应式邮箱服务，支持邮件发送、附件收发 🎉</h4> 
 </div>
 <div align="center">
     <span>简体中文 | <a href="/README-en.md" style="margin-left: 5px">English </a></span>
